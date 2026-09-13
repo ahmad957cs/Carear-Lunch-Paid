@@ -1,0 +1,5 @@
+Architecture,Task,Metric,Score
+ANN,Tabular binary classification (breast cancer),Accuracy,0.9561
+CNN,"Image classification, 10 classes (digits)",Accuracy,0.9861
+SimpleRNN,Sequence classification (synthetic sentiment),Accuracy,0.9988
+LSTM,Sequence classification (synthetic sentiment),Accuracy,1.0
