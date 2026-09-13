@@ -7,7 +7,7 @@ and deep learning (ANN/CNN/RNN/YOLO). Each task follows the full data-science li
 feature engineering → modeling → evaluation → reporting, and every notebook in this repository
 runs end-to-end and produces the metrics and plots referenced below.
 
-**Intern:** Ahmad — BS Computer Science, UET Mardan | AI/ML Engineering focus
+**Intern:** Ahmad Gul — BS Computer Science(Ai), UET Mardan | AI/ML Engineering focus
 
 ---
 
